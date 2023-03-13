@@ -8,3 +8,5 @@
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quasar529&show_icons=true)
+---
+<a href="https://velog.io/@quasar529">![velog](https://img.shields.io/badge/velog-ffffff?style=for-the-badge&logo=velog&logoColor=brightgreen)</a>
