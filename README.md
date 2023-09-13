@@ -2,6 +2,8 @@
 🚞 **Computer Engineering Student** \
 💻 **Future AI Engineer**
 
+---
+
 ### 📝 Profile
 |기간|소속|
 |:----:|:----:|
