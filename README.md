@@ -11,6 +11,12 @@
 |2023.07~|빅데이터 연합동아리 BoAZ 21기 분석|
 |2023.07~|[ISL(Information System Lab)](https://albertno.hongik.ac.kr/) 학부연구생|
 
+---
+
+### 🏆 Award
+|일시|대회명|순위|
+|:----:|:----:|:----:|
+|2023.10|용인시 SW/AI 해커톤|예선-Private 3등, 본선-최우수상 (용인시산업진흥원장상)|
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=quasar0529)](https://solved.ac/quasar0529)
 
