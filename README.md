@@ -1,15 +1,22 @@
 ### 👋 How did you get here? 
-🚞 **Computer Engineering Student** \
-💻 **Future AI Engineer**
+💻 **Future AI Researcher**
 
 ---
 
-### 📝 Profile
+### 🎓 Education
+|기간|소속|전공|
+|:----:|:----:|:----:|
+|2018.03 ~ 2025.02|홍익대학교|컴퓨터공학과 학사|
+|2025.03 ~ |연세대학교|인공지능학과 석사|
+
+---
+
+### 📝 Experience
 |기간|소속|
 |:----:|:----:|
 |2022.09 ~ 2023.02|네이버 부스트캠프 AI Tech 4기 Computer Vision|
 |2023.07 ~ 2024.07|빅데이터 연합동아리 BoAZ 21기 분석|
-|2023.07 ~|[AI-ISL(Artificial Intelligence and Information Systems Lab)](https://albert-no.github.io/) 학부연구생|
+|2023.07 ~ 2025.02|[AI-ISL(Artificial Intelligence and Information Systems Lab)](https://albert-no.github.io/) 학부연구생|
 
 ---
 
